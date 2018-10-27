@@ -5,10 +5,16 @@
 }
 
 .bodyBack{
-	background-image: url();
+	background-image: url("https://images.pexels.com/photos/7613/pexels-photo.jpg?cs=srgb&dl=city-downtown-new-york-7613.jpg&fm=jpg");
 }
 
 
-#upCUM{
-	padding-top: 50;
+
+#mainView h1{
+	margin-top: 3%;
+}
+
+#following{
+	margin-bottom: 0 !important;
+	background-color: grey;
 }
