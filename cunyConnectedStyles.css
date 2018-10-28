@@ -12,7 +12,9 @@
 }
 
 #brandName {
-	padding-right: 20%;
+	font-family: 'Raleway Dots', cursive;
+	font-size: 28px;
+	padding-right: 16%;
 }
 
 #upCUM img{
@@ -25,11 +27,20 @@
 }
 
 #mainView h1{
+	text-shadow: -2px 2px 24px #000000;
 	padding: 2% 1%;
 	font-size: 100px;
 	color: #fff;
 	opacity: .78;
+	text-shadow: 
 }
+
+/*.eP1{
+	box-sizing: content-box;
+
+	background-color: rgba(255, 255, 255,.75);
+	margin-right: 20%;
+}*/
 
 #search {
 	width: 50% !important;
@@ -65,14 +76,30 @@
 .event {
 	background-color: rgba(255,255,255,.9);
 	box-sizing: content-box;
-	box-shadow: 10px 5px 5px #484949;
+	box-shadow: -2px 7px 14px  #484949;
+}
+
+.event h3 {
+	padding-top: 1%;
+}
+
+.event p{
+	padding-right: 4%;
+	padding-bottom: 2%;
 }
 
 #eventHeading{
+	font-family:'Cormorant', serif;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px #000000;
+	font-size: 72px;
+	color: #FFF;
+
 	padding-left: 3%;
 	padding-top: 2%;
 	padding-bottom: 3%;
 }
+
 
 #e1 h3{
 	margin-left: 22%;
