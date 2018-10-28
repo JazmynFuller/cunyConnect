@@ -23,6 +23,10 @@
 	opacity: .78;
 }
 
+#search {
+	width: 50% !important;
+}
+
 #following{
 	margin-bottom: 0 !important;
 	background-color: grey;
@@ -40,7 +44,6 @@
 #upcomingEvents {
 	padding-right: 2%;
 	padding-bottom: 2%;
-
 	text-align: center;
 }
 
@@ -58,7 +61,7 @@
 }
 
 #eventHeading{
-	padding-left: 4%;
+	padding-left: 3%;
 	padding-top: 2%;
 	padding-bottom: 3%;
 }
