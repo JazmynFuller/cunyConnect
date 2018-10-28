@@ -20,6 +20,10 @@
 	/*box-shadow: */
 }
 
+.img-fluid {
+	margin-left: 5%;
+}
+
 #mainView h1{
 	padding: 2% 1%;
 	font-size: 100px;
@@ -71,19 +75,19 @@
 }
 
 #e1 h3{
-	text-align: center;
+	margin-left: 22%;
 }
 
 #e2 h3{
-	text-align: center;
+	margin-left: 22%;
 }
 
 #e3 h3{
-	text-align: center;
+	margin-left: 22%;
 }
 
 #e4 h3{
-	text-align: center;
+	margin-left: 22%;;
 }
 
 
